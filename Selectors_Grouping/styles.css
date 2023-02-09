@@ -1,0 +1,33 @@
+.odd {
+    background-color: hsl(351, 81%, 79%);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+#two {
+    color: blue;
+    font-size: 36px;
+}
+
+.adjust-font-size {
+    font-size: 24px;
+}
+
+#four {
+    background-color: hsl(120, 73%, 75%);
+    font-weight: 700;
+}
+
+.inverted,
+.fancy {
+    font-size: 28px;
+    font-family: Helvetica, "Times New Roman", sans-serif;
+}
+
+.inverted {
+    background-color: black;
+    color: white;
+}
+
+.fancy {
+    background-color: yellow;
+}
